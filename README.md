@@ -10,7 +10,7 @@ https://docs.docker.com/get-docker/
 Після цього запустити одну команду у терміналі:
 
 ```shell
-docker run -ti --rm abagayev/stop-russia
+docker run -ti --rm nickua/stop-russia
 ```
 
 ### Запуск у хмарі
@@ -58,7 +58,7 @@ https://docs.docker.com/get-docker/
 Then run one command in the terminal:
 
 ```shell
-docker run -ti --rm abagayev/stop-russia
+docker run -ti --rm nickua/stop-russia
 ```
 
 ### Launch in the cloud
